@@ -1,0 +1,1 @@
+wget "https://www.facebook.com/login.php?login_attempt=1" --post-data "email=mail&pass=heslo" --no-check-certificate --keep-session-cookies --save-cookies=cookies --load-cookies=cookies -U "Mozilla/5.0 (Windows NT 5.2; rv:2.0.1) Gecko/20100101 Firefox/4.0.1" -S
